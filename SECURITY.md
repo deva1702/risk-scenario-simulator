@@ -216,7 +216,6 @@ Sending raw user input directly from backend to AI
 - Add timeout (10s) and error handling
 
 ---
-
 # Security Testing — Week 1
 
 ## 1. Empty Input
