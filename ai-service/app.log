@@ -76,3 +76,13 @@
 2026-04-27 15:36:06,053 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on http://127.0.0.1:5000
 2026-04-27 15:36:06,054 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-27 15:40:18,432 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-27 15:40:18,432 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-27 15:44:53,318 - INFO - Received question: cyber attack risk
+2026-04-27 15:44:53,318 - INFO - Calling AI model
+2026-04-27 15:44:56,599 - INFO - Response generated successfully
+2026-04-27 15:44:56,608 - INFO - 127.0.0.1 - - [27/Apr/2026 15:44:56] "POST /query HTTP/1.1" 200 -
+2026-04-27 15:46:21,614 - INFO - Received question: cyber attack risk
+2026-04-27 15:46:21,614 - INFO - Cache hit
+2026-04-27 15:46:21,615 - INFO - 127.0.0.1 - - [27/Apr/2026 15:46:21] "POST /query HTTP/1.1" 200 -
