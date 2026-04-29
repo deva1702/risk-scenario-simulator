@@ -1,3 +1,14 @@
-.env 
-__pycache__/ 
-chroma_data/ 
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
