@@ -372,3 +372,402 @@
 2026-05-04 12:49:06,838 - INFO - Response generated
 2026-05-04 12:49:06,839 - INFO - 127.0.0.1 - - [04/May/2026 12:49:06] "POST /query HTTP/1.1" 200 -
 2026-05-04 12:49:22,878 - INFO - 127.0.0.1 - - [04/May/2026 12:49:22] "POST /generate-report HTTP/1.1" 200 -
+2026-05-04 22:34:51,231 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-04 22:34:51,236 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-04 22:34:51,241 - INFO -  * Restarting with stat
+2026-05-04 22:35:16,380 - WARNING -  * Debugger is active!
+2026-05-04 22:35:16,400 - INFO -  * Debugger PIN: 845-981-448
+2026-05-04 22:40:25,725 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-04 22:40:25,731 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-04 22:40:25,735 - INFO -  * Restarting with stat
+2026-05-04 22:40:27,629 - WARNING -  * Debugger is active!
+2026-05-04 22:40:27,646 - INFO -  * Debugger PIN: 845-981-448
+2026-05-04 22:48:00,571 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-04 22:48:00,571 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-04 22:48:00,578 - INFO -  * Restarting with stat
+2026-05-04 22:48:02,403 - WARNING -  * Debugger is active!
+2026-05-04 22:48:02,411 - INFO -  * Debugger PIN: 845-981-448
+2026-05-04 22:54:51,630 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-04 22:54:51,631 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-04 22:54:51,637 - INFO -  * Restarting with stat
+2026-05-04 22:54:52,937 - WARNING -  * Debugger is active!
+2026-05-04 22:54:52,951 - INFO -  * Debugger PIN: 845-981-448
+2026-05-04 22:58:18,627 - WARNING -  * Debugger is active!
+2026-05-04 22:58:18,642 - INFO -  * Debugger PIN: 845-981-448
+2026-05-04 22:59:56,705 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-04 22:59:56,708 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-04 22:59:56,712 - INFO -  * Restarting with stat
+2026-05-04 22:59:58,129 - WARNING -  * Debugger is active!
+2026-05-04 22:59:58,144 - INFO -  * Debugger PIN: 845-981-448
+2026-05-04 23:01:12,234 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-04 23:01:12,236 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-04 23:01:12,239 - INFO -  * Restarting with stat
+2026-05-04 23:01:13,801 - WARNING -  * Debugger is active!
+2026-05-04 23:01:13,811 - INFO -  * Debugger PIN: 845-981-448
+2026-05-04 23:01:44,026 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-04 23:01:44,027 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-04 23:01:44,030 - INFO -  * Restarting with stat
+2026-05-04 23:01:45,441 - WARNING -  * Debugger is active!
+2026-05-04 23:01:45,449 - INFO -  * Debugger PIN: 845-981-448
+2026-05-05 11:32:30,846 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-05 11:32:30,854 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-05 11:32:30,860 - INFO -  * Restarting with stat
+2026-05-05 11:32:53,540 - WARNING -  * Debugger is active!
+2026-05-05 11:32:53,563 - INFO -  * Debugger PIN: 845-981-448
+2026-05-05 11:33:37,980 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-05 11:33:37,981 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-05 11:33:37,984 - INFO -  * Restarting with stat
+2026-05-05 11:34:02,449 - WARNING -  * Debugger is active!
+2026-05-05 11:34:02,481 - INFO -  * Debugger PIN: 845-981-448
+2026-05-05 11:34:23,039 - INFO -  * Detected change in 'C:\\Users\\harsh\\OneDrive\\Desktop\\campuspe-mvp\\ai-service\\app.py', reloading
+2026-05-05 11:34:23,137 - INFO -  * Restarting with stat
+2026-05-05 11:38:56,361 - WARNING -  * Debugger is active!
+2026-05-05 11:38:56,393 - INFO -  * Debugger PIN: 845-981-448
+2026-05-05 11:38:56,566 - INFO - 127.0.0.1 - - [05/May/2026 11:38:56] "GET / HTTP/1.1" 200 -
+2026-05-05 11:38:58,499 - INFO - 127.0.0.1 - - [05/May/2026 11:38:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-05 11:39:33,212 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-05 11:39:33,216 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-05 11:39:33,218 - INFO -  * Restarting with stat
+2026-05-05 11:39:57,346 - WARNING -  * Debugger is active!
+2026-05-05 11:39:57,366 - INFO -  * Debugger PIN: 845-981-448
+2026-05-05 11:43:43,177 - INFO - 127.0.0.1 - - [05/May/2026 11:43:43] "GET / HTTP/1.1" 200 -
+2026-05-05 11:43:44,191 - INFO - 127.0.0.1 - - [05/May/2026 11:43:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-05 11:44:08,308 - INFO - 127.0.0.1 - - [05/May/2026 11:44:08] "GET /health HTTP/1.1" 200 -
+2026-05-05 11:46:04,440 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-05 11:46:04,441 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-05 11:46:04,443 - INFO -  * Restarting with stat
+2026-05-05 11:46:29,040 - WARNING -  * Debugger is active!
+2026-05-05 11:46:29,053 - INFO -  * Debugger PIN: 845-981-448
+2026-05-05 11:46:32,880 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-05 11:46:32,880 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-05 11:46:32,883 - INFO -  * Restarting with stat
+2026-05-05 11:46:38,407 - INFO - 127.0.0.1 - - [05/May/2026 11:46:38] "GET / HTTP/1.1" 200 -
+2026-05-05 11:46:43,442 - INFO - 127.0.0.1 - - [05/May/2026 11:46:43] "GET /health HTTP/1.1" 200 -
+2026-05-05 11:46:54,108 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-05 11:46:54,109 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-05 11:46:54,112 - INFO -  * Restarting with stat
+2026-05-05 11:47:00,676 - WARNING -  * Debugger is active!
+2026-05-05 11:47:00,687 - INFO -  * Debugger PIN: 845-981-448
+2026-05-05 11:47:20,632 - WARNING -  * Debugger is active!
+2026-05-05 11:47:20,643 - INFO -  * Debugger PIN: 845-981-448
+2026-05-05 11:48:04,929 - INFO - 127.0.0.1 - - [05/May/2026 11:48:04] "GET / HTTP/1.1" 200 -
+2026-05-05 11:48:07,648 - INFO - 127.0.0.1 - - [05/May/2026 11:48:07] "GET / HTTP/1.1" 200 -
+2026-05-05 11:54:24,843 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-05 11:54:24,848 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-05 11:54:24,851 - INFO -  * Restarting with stat
+2026-05-05 11:54:26,393 - WARNING -  * Debugger is active!
+2026-05-05 11:54:26,408 - INFO -  * Debugger PIN: 845-981-448
+2026-05-05 11:58:29,892 - INFO - 127.0.0.1 - - [05/May/2026 11:58:29] "GET / HTTP/1.1" 200 -
+2026-05-05 12:08:44,168 - INFO - 127.0.0.1 - - [05/May/2026 12:08:44] "GET / HTTP/1.1" 200 -
+2026-05-05 12:08:47,494 - INFO - 127.0.0.1 - - [05/May/2026 12:08:47] "GET / HTTP/1.1" 200 -
+2026-05-05 12:09:01,288 - INFO - 127.0.0.1 - - [05/May/2026 12:09:01] "GET / HTTP/1.1" 200 -
+2026-05-05 12:09:15,584 - INFO - 127.0.0.1 - - [05/May/2026 12:09:15] "GET / HTTP/1.1" 200 -
+2026-05-05 12:09:21,201 - INFO - 127.0.0.1 - - [05/May/2026 12:09:21] "GET / HTTP/1.1" 200 -
+2026-05-05 12:12:03,878 - INFO - 127.0.0.1 - - [05/May/2026 12:12:03] "GET / HTTP/1.1" 200 -
+2026-05-05 12:18:34,967 - INFO - 127.0.0.1 - - [05/May/2026 12:18:34] "GET / HTTP/1.1" 200 -
+2026-05-05 12:18:35,796 - INFO - 127.0.0.1 - - [05/May/2026 12:18:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-05 17:55:30,458 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-05 17:55:30,460 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-05 17:55:30,464 - INFO -  * Restarting with stat
+2026-05-05 17:55:58,004 - WARNING -  * Debugger is active!
+2026-05-05 17:55:58,027 - INFO -  * Debugger PIN: 845-981-448
+2026-05-05 18:03:39,069 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-05 18:03:39,072 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-05 18:03:39,075 - INFO -  * Restarting with stat
+2026-05-05 18:04:02,161 - WARNING -  * Debugger is active!
+2026-05-05 18:04:02,187 - INFO -  * Debugger PIN: 845-981-448
+2026-05-05 21:45:25,100 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-05 21:45:25,102 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-05 21:45:25,102 - INFO -  * Restarting with stat
+2026-05-05 21:45:50,940 - WARNING -  * Debugger is active!
+2026-05-05 21:45:50,959 - INFO -  * Debugger PIN: 845-981-448
+2026-05-05 21:46:06,426 - INFO - 127.0.0.1 - - [05/May/2026 21:46:06] "GET / HTTP/1.1" 200 -
+2026-05-05 21:46:07,159 - INFO - 127.0.0.1 - - [05/May/2026 21:46:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-05 21:46:19,688 - INFO - 127.0.0.1 - - [05/May/2026 21:46:19] "GET / HTTP/1.1" 200 -
+2026-05-05 21:46:19,973 - INFO - 127.0.0.1 - - [05/May/2026 21:46:19] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+2026-05-05 21:46:19,976 - INFO - 127.0.0.1 - - [05/May/2026 21:46:19] "GET / HTTP/1.1" 200 -
+2026-05-05 21:46:19,980 - INFO - 127.0.0.1 - - [05/May/2026 21:46:19] "[33mGET /sitemap.xml HTTP/1.1[0m" 404 -
+2026-05-05 21:46:24,925 - INFO - 127.0.0.1 - - [05/May/2026 21:46:24] "[33mGET /3535865736903028149 HTTP/1.1[0m" 404 -
+2026-05-05 21:46:24,942 - INFO - 127.0.0.1 - - [05/May/2026 21:46:24] "GET / HTTP/1.1" 200 -
+2026-05-05 21:46:24,965 - INFO - 127.0.0.1 - - [05/May/2026 21:46:24] "GET / HTTP/1.1" 200 -
+2026-05-05 21:46:24,982 - INFO - 127.0.0.1 - - [05/May/2026 21:46:24] "GET / HTTP/1.1" 200 -
+2026-05-05 21:46:24,987 - INFO - 127.0.0.1 - - [05/May/2026 21:46:24] "[33mGET /WEB-INF/web.xml HTTP/1.1[0m" 404 -
+2026-05-05 21:46:24,999 - INFO - 127.0.0.1 - - [05/May/2026 21:46:24] "[33mGET /WEB-INF/applicationContext.xml HTTP/1.1[0m" 404 -
+2026-05-05 21:46:25,017 - ERROR - 127.0.0.1 - - [05/May/2026 21:46:25] code 400, message Bad request version ('¼+\x92¨H\x97Ï½9\x04Ì\x16')
+2026-05-05 21:46:25,019 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[35m[1m\x16\x03\x01\x02ò\x01\x00\x02î\x03\x01SC[\x90\x9d\x9br\x0b¼\x0c¼+\x92¨H\x97Ï½9\x04Ì\x16[0m" HTTPStatus.BAD_REQUEST -
+2026-05-05 21:46:25,022 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "GET / HTTP/1.1" 200 -
+2026-05-05 21:46:25,024 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "GET /?-s HTTP/1.1" 200 -
+2026-05-05 21:46:25,025 - ERROR - 127.0.0.1 - - [05/May/2026 21:46:25] code 400, message Bad request version ('¼+\x92¨H\x97Ï½9\x04Ì\x16')
+2026-05-05 21:46:25,025 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[35m[1m\x16\x03\x02\x02ò\x01\x00\x02î\x03\x02SC[\x90\x9d\x9br\x0b¼\x0c¼+\x92¨H\x97Ï½9\x04Ì\x16[0m" HTTPStatus.BAD_REQUEST -
+2026-05-05 21:46:25,030 - ERROR - 127.0.0.1 - - [05/May/2026 21:46:25] code 400, message Bad request version ('¼+\x92¨H\x97Ï½9\x04Ì\x16')
+2026-05-05 21:46:25,032 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[35m[1m\x16\x03\x03\x02ò\x01\x00\x02î\x03\x03SC[\x90\x9d\x9br\x0b¼\x0c¼+\x92¨H\x97Ï½9\x04Ì\x16[0m" HTTPStatus.BAD_REQUEST -
+2026-05-05 21:46:25,038 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "GET /?-s HTTP/1.1" 200 -
+2026-05-05 21:46:25,055 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "GET / HTTP/1.1" 200 -
+2026-05-05 21:46:25,062 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[31m[1mPOST /?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input HTTP/1.1[0m" 400 -
+2026-05-05 21:46:25,077 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[31m[1mPOST /?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input HTTP/1.1[0m" 400 -
+2026-05-05 21:46:25,080 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[31m[1mPOST /?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input HTTP/1.1[0m" 400 -
+2026-05-05 21:46:25,084 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[31m[1mPOST /robots.txt?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input HTTP/1.1[0m" 400 -
+2026-05-05 21:46:25,089 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[31m[1mPOST /sitemap.xml?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input HTTP/1.1[0m" 400 -
+2026-05-05 21:46:25,093 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[31m[1mPOST /?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input HTTP/1.1[0m" 400 -
+2026-05-05 21:46:25,096 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[31m[1mPOST /robots.txt?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input HTTP/1.1[0m" 400 -
+2026-05-05 21:46:25,100 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[31m[1mPOST /sitemap.xml?-d+allow_url_include%3d1+-d+auto_prepend_file%3dphp://input HTTP/1.1[0m" 400 -
+2026-05-05 21:46:25,118 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "GET / HTTP/1.1" 200 -
+2026-05-05 21:46:25,136 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "GET / HTTP/1.1" 200 -
+2026-05-05 21:46:25,154 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "GET / HTTP/1.1" 200 -
+2026-05-05 21:46:25,169 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "GET / HTTP/1.1" 200 -
+2026-05-05 21:46:25,184 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "GET / HTTP/1.1" 200 -
+2026-05-05 21:46:25,185 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "GET / HTTP/1.1" 200 -
+2026-05-05 21:46:25,196 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+2026-05-05 21:46:25,199 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "GET / HTTP/1.1" 200 -
+2026-05-05 21:46:25,200 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[33mGET /sitemap.xml HTTP/1.1[0m" 404 -
+2026-05-05 21:46:25,217 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "GET / HTTP/1.1" 200 -
+2026-05-05 21:46:25,228 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "GET / HTTP/1.1" 200 -
+2026-05-05 21:46:25,245 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "GET / HTTP/1.1" 200 -
+2026-05-05 21:46:25,257 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "GET / HTTP/1.1" 200 -
+2026-05-05 21:46:25,274 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "GET / HTTP/1.1" 200 -
+2026-05-05 21:46:25,293 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "GET / HTTP/1.1" 200 -
+2026-05-05 21:46:25,318 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "GET / HTTP/1.1" 200 -
+2026-05-05 21:46:25,715 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "GET / HTTP/1.1" 200 -
+2026-05-05 21:46:25,725 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "GET /?class.module.classLoader.DefaultAssertionStatus=nonsense HTTP/1.1" 200 -
+2026-05-05 21:46:25,726 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "GET / HTTP/1.1" 200 -
+2026-05-05 21:46:25,737 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2026-05-05 21:46:25,741 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[32mGET ?class.module.classLoader.DefaultAssertionStatus=nonsense HTTP/1.1[0m" 308 -
+2026-05-05 21:46:25,745 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[33mGET /robots.txt?class.module.classLoader.DefaultAssertionStatus=nonsense HTTP/1.1[0m" 404 -
+2026-05-05 21:46:25,748 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[33mGET /sitemap.xml?class.module.classLoader.DefaultAssertionStatus=nonsense HTTP/1.1[0m" 404 -
+2026-05-05 21:46:25,754 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2026-05-05 21:46:25,758 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "GET /?class.module.classLoader.DefaultAssertionStatus=nonsense HTTP/1.1" 200 -
+2026-05-05 21:46:25,760 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[31m[1mPOST /robots.txt HTTP/1.1[0m" 400 -
+2026-05-05 21:46:25,764 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[31m[1mPOST /sitemap.xml HTTP/1.1[0m" 400 -
+2026-05-05 21:46:25,772 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2026-05-05 21:46:25,775 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[31m[1mPOST /robots.txt HTTP/1.1[0m" 400 -
+2026-05-05 21:46:25,778 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[31m[1mPOST /sitemap.xml HTTP/1.1[0m" 400 -
+2026-05-05 21:46:25,784 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2026-05-05 21:46:25,797 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2026-05-05 21:46:25,801 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "GET / HTTP/1.1" 200 -
+2026-05-05 21:46:25,816 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "GET / HTTP/1.1" 200 -
+2026-05-05 21:46:25,829 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:25,830 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:25,839 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:25,840 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:25,857 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:25,857 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:25,871 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:25,872 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:25,875 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[33mGET /latest/meta-data/ HTTP/1.1[0m" 404 -
+2026-05-05 21:46:25,886 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[33mGET /latest/meta-data/ HTTP/1.1[0m" 404 -
+2026-05-05 21:46:25,892 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[33mGET /computeMetadata/v1/ HTTP/1.1[0m" 404 -
+2026-05-05 21:46:25,903 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[33mGET /computeMetadata/v1/ HTTP/1.1[0m" 404 -
+2026-05-05 21:46:25,911 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[33mGET /opc/v1/instance/ HTTP/1.1[0m" 404 -
+2026-05-05 21:46:25,917 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[33mGET /opc/v1/instance/ HTTP/1.1[0m" 404 -
+2026-05-05 21:46:25,927 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[33mGET /opc/v2/instance/ HTTP/1.1[0m" 404 -
+2026-05-05 21:46:25,935 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[33mGET /opc/v2/instance/ HTTP/1.1[0m" 404 -
+2026-05-05 21:46:25,941 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[33mGET /latest/meta-data/ HTTP/1.1[0m" 404 -
+2026-05-05 21:46:25,948 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[33mGET /latest/meta-data/ HTTP/1.1[0m" 404 -
+2026-05-05 21:46:25,956 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[33mGET /metadata/instance HTTP/1.1[0m" 404 -
+2026-05-05 21:46:25,962 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[33mGET /metadata/v1 HTTP/1.1[0m" 404 -
+2026-05-05 21:46:25,971 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[33mGET /openstack/latest/meta_data.json HTTP/1.1[0m" 404 -
+2026-05-05 21:46:25,982 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:25,983 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:25,993 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:25,995 - INFO - 127.0.0.1 - - [05/May/2026 21:46:25] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,009 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,010 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,010 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,011 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,023 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /sitemap.xml/ HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,025 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /robots.txt/ HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,028 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,031 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,039 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,040 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,040 - ERROR - 127.0.0.1 - - [05/May/2026 21:46:26] code 400, message Bad request version ("\x80Ò\x14\x8fd·ëâÕ\x97`_\x94#xÝ\x8eY.ºx)3zã´6b¯>NÓ\x00>\x13\x02\x13\x01\x13\x03À,À+Ì©À0Ì¨À/\x00\x9fÌª\x00£\x00\x9e\x00¢À$À(À#À'\x00k\x00j\x00g\x00@À")
+2026-05-05 21:46:26,040 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[35m[1m\x16\x03\x03\x01\x95\x01\x00\x01\x91\x03\x03}\\­\x83ìë À\x01\x93\x82­q)\x0bu\x82?dÇÏß1úº­Ö\x9b]ÒðG \x80Ò\x14\x8fd·ëâÕ\x97`_\x94#xÝ\x8eY.ºx)3zã´6b¯>NÓ\x00>\x13\x02\x13\x01\x13\x03À,À+Ì©À0Ì¨À/\x00\x9fÌª\x00£\x00\x9e\x00¢À$À(À#À'\x00k\x00j\x00g\x00@À[0m" HTTPStatus.BAD_REQUEST -
+2026-05-05 21:46:26,053 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,055 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,066 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,067 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,083 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,084 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,118 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /elmah.axd HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,121 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,122 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /trace.axd HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,123 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,138 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /.htaccess HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,142 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,144 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,157 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,158 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,161 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /.env HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,201 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,203 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /zap1357626029104556401 HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,203 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,205 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /actuator/health HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,215 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /actuator/health HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,222 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /.zap150330097751352946 HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,235 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /lfm.php HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,241 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /.idea/WebServers.xml HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,280 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /config/databases.yml HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,287 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /config/database.yml HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,293 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /.git/config HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,303 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /.svn/entries HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,307 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /.svn/wc.db HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,313 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /CVS/root HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,319 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /server-status HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,324 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /core HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,331 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /sftp-config.json HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,338 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /WS_FTP.ini HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,344 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /ws_ftp.ini HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,350 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /WS_FTP.INI HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,356 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /filezilla.xml HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,364 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /sitemanager.xml HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,369 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /FileZilla.xml HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,375 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /winscp.ini HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,381 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /WinSCP.ini HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,388 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /.DS_Store HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,394 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /.php_cs.cache HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,399 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /DEADJOE HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,405 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /sites/default/private/files/backup_migrate/scheduled/test.txt HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,411 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /app/etc/local.xml HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,417 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /server.key HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,423 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /privatekey.key HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,430 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /myserver.key HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,438 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /key.pem HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,445 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /id_rsa HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,454 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /id_dsa HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,462 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /.ssh/id_rsa HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,471 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /.ssh/id_dsa HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,478 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /adminer.php HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,484 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /vb_test.php HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,493 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /CHANGELOG.txt HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,500 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /sites/default/files/.ht.sqlite HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,507 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /composer.json HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,514 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /composer.lock HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,520 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /vim_settings.xml HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,527 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /server-info HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,534 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /phpinfo.php HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,540 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /info.php HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,547 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /i.php HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,555 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /test.php HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,562 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /_wpeprivate/config.json HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,570 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /_framework/blazor.boot.json HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,575 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /.hg HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,581 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /.bzr HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,585 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /._darcs HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,593 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /BitKeeper HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,602 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,603 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,614 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,614 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,624 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,625 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,635 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,636 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,638 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,638 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,648 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,650 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,653 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /sitemap.xml HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,653 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,656 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,662 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,664 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,669 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /sitemap.xml HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,672 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,682 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,682 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,682 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,686 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /sitemap.xml HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,692 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,696 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,701 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,703 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /sitemap.xml HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,711 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,712 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,713 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,714 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,715 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,718 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /sitemap.xml HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,721 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,722 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,729 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,732 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /sitemap.xml HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,737 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,739 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,742 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,747 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /sitemap.xml HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,752 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,753 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,756 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,759 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,761 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,764 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /sitemap.xml HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,768 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,773 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /sitemap.xml HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,777 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,779 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,780 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,783 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /sitemap.xml HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,788 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,793 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,794 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,797 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /sitemap.xml HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,799 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,800 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,805 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[33mGET /sitemap.xml HTTP/1.1[0m" 404 -
+2026-05-05 21:46:26,810 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,812 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,819 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,819 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,828 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,830 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,853 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,853 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,863 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,863 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,873 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,875 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,884 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,885 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,896 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,897 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,906 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,907 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,919 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,919 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:26,931 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:26,932 - INFO - 127.0.0.1 - - [05/May/2026 21:46:26] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:27,085 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:27,085 - INFO - 127.0.0.1 - - [05/May/2026 21:46:27] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:27,093 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:27,094 - INFO - 127.0.0.1 - - [05/May/2026 21:46:27] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:27,155 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: home
+2026-05-05 21:46:27,156 - INFO - 127.0.0.1 - - [05/May/2026 21:46:27] "[31m[1mGET / HTTP/1.1[0m" 429 -
+2026-05-05 21:46:27,276 - INFO - 127.0.0.1 - - [05/May/2026 21:46:27] "[33mGET /swagger-ui/ HTTP/1.1[0m" 404 -
+2026-05-05 21:46:27,353 - INFO - 127.0.0.1 - - [05/May/2026 21:46:27] "[33mGET /v3/api-docs HTTP/1.1[0m" 404 -
+2026-05-05 21:46:27,363 - INFO - 127.0.0.1 - - [05/May/2026 21:46:27] "[33mGET /swagger.json HTTP/1.1[0m" 404 -
+2026-05-05 21:46:27,374 - INFO - 127.0.0.1 - - [05/May/2026 21:46:27] "[33mGET /openapi.json HTTP/1.1[0m" 404 -
+2026-05-05 21:46:27,387 - INFO - 127.0.0.1 - - [05/May/2026 21:46:27] "[33mGET /api-docs HTTP/1.1[0m" 404 -
+2026-05-05 21:46:27,397 - INFO - 127.0.0.1 - - [05/May/2026 21:46:27] "[33mGET /docs/ HTTP/1.1[0m" 404 -
+2026-05-05 21:46:27,408 - INFO - 127.0.0.1 - - [05/May/2026 21:46:27] "[33mGET /swagger HTTP/1.1[0m" 404 -
+2026-05-05 21:46:27,417 - INFO - 127.0.0.1 - - [05/May/2026 21:46:27] "[33mGET /v2/api-docs HTTP/1.1[0m" 404 -
+2026-05-05 21:46:27,428 - INFO - 127.0.0.1 - - [05/May/2026 21:46:27] "[33mGET /swagger-ui/index.html HTTP/1.1[0m" 404 -
+2026-05-05 21:46:27,438 - INFO - 127.0.0.1 - - [05/May/2026 21:46:27] "[33mGET /openapi.yaml HTTP/1.1[0m" 404 -
+2026-05-05 21:46:27,449 - INFO - 127.0.0.1 - - [05/May/2026 21:46:27] "[33mGET /swagger.yaml HTTP/1.1[0m" 404 -
+2026-05-05 21:46:27,499 - INFO - 127.0.0.1 - - [05/May/2026 21:46:27] "[33mGET /swagger/ui/index.html HTTP/1.1[0m" 404 -
