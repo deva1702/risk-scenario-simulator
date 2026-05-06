@@ -306,3 +306,232 @@ All tested attack vectors are handled safely:
 - HTML sanitization prevents XSS
 - Rate limiting prevents abuse
 
+### Day 13 — Full Stack Security Validation
+
+- 401 Unauthorized verified for requests without authentication
+- 403 Forbidden verified for authenticated users without ADMIN role
+- XSS attack input successfully detected by Flask AI backend
+- 429 Too Many Requests verified after API rate limit threshold exceeded
+- Spring Security RBAC protection validated on `/admin/**`
+- PostgreSQL and Flyway backend integration validated successfully
+
+### Notes
+Spring Boot backend security was tested using protected admin endpoints and role-based access control. Flask backend successfully identified malicious/XSS-style inputs and classified high-risk security scenarios. API rate limiting protections were triggered successfully during repeated request testing.
+
+### Conclusion
+All planned Day 13 backend security validation tasks completed successfully. Authentication, authorization, XSS detection, and rate limiting protections are functioning correctly for the MVP environment.
+
+# Day 14 — Final Security Review & Executive Summary
+
+## Executive Summary
+
+The Risk Scenario Simulator project underwent full-stack security validation across both the Flask AI backend and Spring Boot API layers. Security hardening, vulnerability mitigation, browser protection, input sanitization, abuse prevention, and role-based access control were implemented and verified throughout the development lifecycle.
+
+Comprehensive security testing was performed using OWASP ZAP, Postman, Flask middleware validation, Spring Security RBAC enforcement, and rate-limiting validation. All critical and high-severity findings identified during development were resolved prior to MVP completion.
+
+The application now demonstrates a hardened backend architecture suitable for MVP-level deployment, internship demonstration, and secure AI service integration workflows.
+
+---
+
+# Security Threats Addressed
+
+## Injection & XSS Protection
+
+Mitigations implemented:
+
+- Input sanitization pipeline
+- Request validation middleware
+- JSON payload validation
+- Flask-Talisman CSP enforcement
+- XSS payload interception testing
+
+Validated against malicious payloads such as:
+
+```html
+<script>alert(1)</script>
+```
+
+Result:
+
+* No script execution observed
+* Malicious input successfully intercepted
+
+---
+
+## Browser Security Threats
+
+Implemented protections against:
+
+* Clickjacking
+* MIME sniffing
+* Unsafe script execution
+* Framing attacks
+* External resource abuse
+
+Security headers enforced:
+
+* Content-Security-Policy
+* X-Frame-Options
+* X-Content-Type-Options
+
+---
+
+## Abuse Prevention & API Protection
+
+Implemented protections for:
+
+* excessive API usage
+* spam requests
+* automated abuse
+* malformed requests
+
+Security controls added:
+
+* Flask-Limiter rate limiting
+* IP throttling
+* centralized request interception
+* invalid field rejection
+* structured error handling
+
+Validated using repeated request testing resulting in:
+
+```txt
+429 Too Many Requests
+```
+
+---
+
+## Authentication & Authorization Security
+
+Spring Security protections validated successfully.
+
+Verified behaviors:
+
+* 401 Unauthorized for requests without authentication
+* 403 Forbidden for authenticated users without ADMIN role
+* RBAC enforcement on `/admin/**`
+
+Protected endpoint testing completed using Postman and Spring Security configuration.
+
+---
+
+# Security Testing Conducted
+
+## OWASP ZAP Testing
+
+Completed:
+
+* Baseline passive scans
+* Active vulnerability scans
+* Header exposure analysis
+* Attack surface review
+
+### Final ZAP Results
+
+* Critical: 0
+* High: 0
+* Medium: 0
+* Low: Server header exposure only
+* Informational: User-agent fuzzer only
+
+---
+
+## Flask Backend Security Testing
+
+Validated:
+
+* XSS detection
+* sanitization behavior
+* AI security classification
+* request validation
+* rate limiting enforcement
+
+---
+
+## Spring Boot Security Testing
+
+Validated:
+
+* protected route enforcement
+* role-based access control
+* unauthorized request handling
+* authentication validation
+* RBAC restrictions
+
+---
+
+# Findings Fixed During Development
+
+Resolved security findings included:
+
+* Missing Content Security Policy
+* Missing X-Frame-Options
+* Missing X-Content-Type-Options
+* Header exposure reduction
+* Request abuse vulnerabilities
+* Missing rate limiting protections
+* Incomplete validation handling
+* Security middleware inconsistencies
+
+---
+
+# Residual Risks
+
+The following low-risk informational items remain acceptable for the MVP environment:
+
+* Minimal server header exposure
+* Informational user-agent discovery findings
+* Development-mode local authentication setup
+
+No exploitable Critical, High, or Medium vulnerabilities remain unresolved at the conclusion of testing.
+
+---
+
+# Infrastructure & Security Integrations
+
+Validated integrations:
+
+* Flask AI backend
+* Spring Boot backend
+* PostgreSQL database
+* Flyway migrations
+* Redis caching
+* Docker-based Redis container
+* Groq AI integration
+* Flask-Talisman
+* Spring Security RBAC
+
+---
+
+# Security Status
+
+Current project status:
+
+* Security hardening completed
+* Full-stack security validation completed
+* RBAC enforcement validated
+* AI input sanitization validated
+* Rate limiting validated
+* OWASP testing completed
+* Backend integration stabilized
+
+The application is considered secure and stable for MVP-level deployment and demonstration purposes.
+
+---
+
+# Team Sign-Off
+
+Security review and validation completed successfully for the Risk Scenario Simulator project.
+
+Validated areas include:
+
+* backend API protection
+* AI request handling security
+* browser security enforcement
+* rate limiting
+* RBAC authorization
+* input sanitization
+* vulnerability mitigation
+* infrastructure integration
+
+Final security review approved for MVP demonstration and project submission.

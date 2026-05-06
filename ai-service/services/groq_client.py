@@ -3,6 +3,7 @@ import time
 import logging
 from groq import Groq
 from dotenv import load_dotenv
+import requests
 
 load_dotenv()
 

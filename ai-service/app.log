@@ -771,3 +771,234 @@
 2026-05-05 21:46:27,438 - INFO - 127.0.0.1 - - [05/May/2026 21:46:27] "[33mGET /openapi.yaml HTTP/1.1[0m" 404 -
 2026-05-05 21:46:27,449 - INFO - 127.0.0.1 - - [05/May/2026 21:46:27] "[33mGET /swagger.yaml HTTP/1.1[0m" 404 -
 2026-05-05 21:46:27,499 - INFO - 127.0.0.1 - - [05/May/2026 21:46:27] "[33mGET /swagger/ui/index.html HTTP/1.1[0m" 404 -
+2026-05-05 22:07:23,621 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-05 22:07:23,624 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-05 22:07:23,627 - INFO -  * Restarting with stat
+2026-05-05 22:07:46,353 - WARNING -  * Debugger is active!
+2026-05-05 22:07:46,379 - INFO -  * Debugger PIN: 845-981-448
+2026-05-05 22:08:09,394 - INFO - 127.0.0.1 - - [05/May/2026 22:08:09] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2026-05-05 22:08:26,390 - INFO - 127.0.0.1 - - [05/May/2026 22:08:26] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2026-05-05 22:08:31,815 - INFO - 127.0.0.1 - - [05/May/2026 22:08:31] "POST /test HTTP/1.1" 200 -
+2026-05-05 22:09:22,593 - INFO - 127.0.0.1 - - [05/May/2026 22:09:22] "[31m[1mPOST /query HTTP/1.1[0m" 400 -
+2026-05-05 22:10:30,506 - INFO - 127.0.0.1 - - [05/May/2026 22:10:30] "[31m[1mPOST /query HTTP/1.1[0m" 400 -
+2026-05-05 22:10:38,253 - INFO - 127.0.0.1 - - [05/May/2026 22:10:38] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2026-05-05 22:12:24,406 - INFO - 127.0.0.1 - - [05/May/2026 22:12:24] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+2026-05-05 22:12:39,880 - INFO - 127.0.0.1 - - [05/May/2026 22:12:39] "[33mPOST /query/ HTTP/1.1[0m" 404 -
+2026-05-05 22:14:27,141 - INFO - 127.0.0.1 - - [05/May/2026 22:14:27] "GET / HTTP/1.1" 200 -
+2026-05-05 22:15:28,987 - INFO - 127.0.0.1 - - [05/May/2026 22:15:28] "POST /test HTTP/1.1" 200 -
+2026-05-05 22:15:56,522 - INFO - 127.0.0.1 - - [05/May/2026 22:15:56] "[31m[1mPOST /query HTTP/1.1[0m" 400 -
+2026-05-05 22:16:13,699 - INFO - 127.0.0.1 - - [05/May/2026 22:16:13] "[31m[1mPOST /query HTTP/1.1[0m" 400 -
+2026-05-05 22:16:49,638 - INFO - 127.0.0.1 - - [05/May/2026 22:16:49] "[31m[1mPOST /test HTTP/1.1[0m" 400 -
+2026-05-05 22:16:52,186 - INFO - 127.0.0.1 - - [05/May/2026 22:16:52] "[31m[1mPOST /test HTTP/1.1[0m" 400 -
+2026-05-05 22:20:13,815 - INFO -  * Detected change in 'C:\\Users\\harsh\\OneDrive\\Desktop\\campuspe-mvp\\ai-service\\app.py', reloading
+2026-05-05 22:20:14,246 - INFO -  * Restarting with stat
+2026-05-05 22:22:35,049 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-05 22:22:35,052 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-05 22:22:35,057 - INFO -  * Restarting with stat
+2026-05-05 22:23:01,066 - WARNING -  * Debugger is active!
+2026-05-05 22:23:01,088 - INFO -  * Debugger PIN: 845-981-448
+2026-05-05 22:23:29,853 - INFO - 127.0.0.1 - - [05/May/2026 22:23:29] "GET / HTTP/1.1" 200 -
+2026-05-05 22:25:30,435 - INFO - Received question: cyber attack risk
+2026-05-05 22:25:30,443 - INFO - Cache MISS
+2026-05-05 22:25:30,508 - INFO - Calling AI model
+2026-05-05 22:25:36,532 - INFO - Response generated
+2026-05-05 22:25:36,543 - INFO - 127.0.0.1 - - [05/May/2026 22:25:36] "POST /query HTTP/1.1" 200 -
+2026-05-05 22:26:38,896 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-05 22:26:38,898 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-05 22:26:38,901 - INFO -  * Restarting with stat
+2026-05-05 22:27:06,695 - WARNING -  * Debugger is active!
+2026-05-05 22:27:06,710 - INFO -  * Debugger PIN: 845-981-448
+2026-05-05 22:30:36,906 - INFO - 127.0.0.1 - - [05/May/2026 22:30:36] "GET / HTTP/1.1" 200 -
+2026-05-05 22:30:42,011 - INFO - Received question: cyber attack risk
+2026-05-05 22:30:42,015 - INFO - Cache MISS
+2026-05-05 22:30:42,015 - INFO - Calling AI model
+2026-05-05 22:30:48,049 - INFO - Response generated
+2026-05-05 22:30:48,055 - INFO - 127.0.0.1 - - [05/May/2026 22:30:48] "POST /query HTTP/1.1" 200 -
+2026-05-05 22:31:36,965 - INFO - Received question: <script>alert(1)</script>
+2026-05-05 22:31:36,966 - INFO - Cache MISS
+2026-05-05 22:31:36,968 - INFO - Calling AI model
+2026-05-05 22:31:43,004 - INFO - Response generated
+2026-05-05 22:31:43,008 - INFO - 127.0.0.1 - - [05/May/2026 22:31:43] "POST /query HTTP/1.1" 200 -
+2026-05-05 22:31:50,610 - INFO - Received question: <script>alert(1)</script>
+2026-05-05 22:31:50,610 - INFO - Cache MISS
+2026-05-05 22:31:50,610 - INFO - Calling AI model
+2026-05-05 22:31:56,628 - INFO - Response generated
+2026-05-05 22:31:56,629 - INFO - 127.0.0.1 - - [05/May/2026 22:31:56] "POST /query HTTP/1.1" 200 -
+2026-05-05 22:38:20,329 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-05 22:38:20,332 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-05 22:38:20,337 - INFO -  * Restarting with stat
+2026-05-05 22:38:42,273 - WARNING -  * Debugger is active!
+2026-05-05 22:38:42,291 - INFO -  * Debugger PIN: 845-981-448
+2026-05-05 22:39:03,814 - INFO - 127.0.0.1 - - [05/May/2026 22:39:03] "GET / HTTP/1.1" 200 -
+2026-05-05 22:39:10,867 - INFO - Received question: <script>alert(1)</script>
+2026-05-05 22:39:10,870 - INFO - Cache MISS
+2026-05-05 22:39:10,873 - INFO - Calling AI model
+2026-05-05 22:39:16,899 - INFO - Response generated
+2026-05-05 22:39:16,903 - INFO - 127.0.0.1 - - [05/May/2026 22:39:16] "POST /query HTTP/1.1" 200 -
+2026-05-05 22:39:51,825 - INFO - 127.0.0.1 - - [05/May/2026 22:39:51] "POST /test HTTP/1.1" 200 -
+2026-05-05 22:40:47,068 - INFO - Received question: <script>alert(1)</script>
+2026-05-05 22:40:47,078 - INFO - Cache MISS
+2026-05-05 22:40:47,082 - INFO - Calling AI model
+2026-05-05 22:40:53,111 - INFO - Response generated
+2026-05-05 22:40:53,115 - INFO - 127.0.0.1 - - [05/May/2026 22:40:53] "POST /query HTTP/1.1" 200 -
+2026-05-05 22:42:17,939 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-05 22:42:17,941 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-05 22:42:17,944 - INFO -  * Restarting with stat
+2026-05-05 22:42:44,319 - WARNING -  * Debugger is active!
+2026-05-05 22:42:44,339 - INFO -  * Debugger PIN: 845-981-448
+2026-05-05 22:42:52,757 - INFO - 127.0.0.1 - - [05/May/2026 22:42:52] "GET / HTTP/1.1" 200 -
+2026-05-05 22:43:08,297 - INFO - Received question: <script>alert(1)</script>
+2026-05-05 22:43:08,303 - INFO - Cache MISS
+2026-05-05 22:43:08,308 - INFO - Calling AI model
+2026-05-05 22:43:15,626 - INFO - Response generated
+2026-05-05 22:43:15,631 - INFO - 127.0.0.1 - - [05/May/2026 22:43:15] "POST /query HTTP/1.1" 200 -
+2026-05-05 22:52:39,960 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-05 22:52:39,964 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-05 22:52:39,968 - INFO -  * Restarting with stat
+2026-05-05 22:53:08,039 - WARNING -  * Debugger is active!
+2026-05-05 22:53:08,057 - INFO -  * Debugger PIN: 845-981-448
+2026-05-05 22:53:08,210 - INFO - 127.0.0.1 - - [05/May/2026 22:53:08] "GET / HTTP/1.1" 200 -
+2026-05-05 22:53:20,742 - INFO - Received question: <script>alert(1)</script>
+2026-05-05 22:53:20,743 - INFO - Cache MISS
+2026-05-05 22:53:20,745 - INFO - Calling AI model
+2026-05-05 22:53:21,717 - INFO - Response generated
+2026-05-05 22:53:21,720 - INFO - 127.0.0.1 - - [05/May/2026 22:53:21] "POST /query HTTP/1.1" 200 -
+2026-05-05 22:53:38,256 - INFO - Received question: <script>alert(1)</script>
+2026-05-05 22:53:38,258 - INFO - Cache MISS
+2026-05-05 22:53:38,258 - INFO - Calling AI model
+2026-05-05 22:53:39,013 - INFO - Response generated
+2026-05-05 22:53:39,013 - INFO - 127.0.0.1 - - [05/May/2026 22:53:39] "POST /query HTTP/1.1" 200 -
+2026-05-05 22:58:53,856 - INFO - Received question: <script>alert(1)</script>
+2026-05-05 22:58:53,869 - INFO - Cache MISS
+2026-05-05 22:58:53,873 - INFO - Calling AI model
+2026-05-05 22:58:54,823 - INFO - Response generated
+2026-05-05 22:58:54,831 - INFO - 127.0.0.1 - - [05/May/2026 22:58:54] "POST /query HTTP/1.1" 200 -
+2026-05-06 10:50:28,526 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-06 10:50:28,530 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-06 10:50:28,530 - INFO -  * Restarting with stat
+2026-05-06 10:50:30,214 - WARNING -  * Debugger is active!
+2026-05-06 10:50:30,226 - INFO -  * Debugger PIN: 845-981-448
+2026-05-06 10:51:04,948 - INFO - 127.0.0.1 - - [06/May/2026 10:51:04] "GET / HTTP/1.1" 200 -
+2026-05-06 10:51:06,556 - INFO - 127.0.0.1 - - [06/May/2026 10:51:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-05-06 10:53:44,844 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-05-06 10:53:44,859 - INFO - [33mPress CTRL+C to quit[0m
+2026-05-06 10:53:44,868 - INFO -  * Restarting with stat
+2026-05-06 10:53:46,747 - WARNING -  * Debugger is active!
+2026-05-06 10:53:46,759 - INFO -  * Debugger PIN: 845-981-448
+2026-05-06 10:53:55,886 - INFO - 127.0.0.1 - - [06/May/2026 10:53:55] "GET / HTTP/1.1" 200 -
+2026-05-06 10:55:28,699 - INFO - Received question: cyber attack risk
+2026-05-06 10:55:28,759 - INFO - Cache MISS
+2026-05-06 10:55:28,798 - INFO - Calling AI model
+2026-05-06 10:55:29,872 - INFO - Response generated
+2026-05-06 10:55:29,880 - INFO - 127.0.0.1 - - [06/May/2026 10:55:29] "POST /query HTTP/1.1" 200 -
+2026-05-06 10:56:26,054 - INFO - Received question: <script>alert(1)</script>
+2026-05-06 10:56:26,085 - INFO - Cache MISS
+2026-05-06 10:56:26,088 - INFO - Calling AI model
+2026-05-06 10:56:26,854 - INFO - Response generated
+2026-05-06 10:56:26,861 - INFO - 127.0.0.1 - - [06/May/2026 10:56:26] "POST /query HTTP/1.1" 200 -
+2026-05-06 11:00:57,522 - INFO - Received question: <script>alert(1)</script>
+2026-05-06 11:00:57,553 - INFO - Cache HIT
+2026-05-06 11:00:57,555 - INFO - 127.0.0.1 - - [06/May/2026 11:00:57] "POST /query HTTP/1.1" 200 -
+2026-05-06 11:00:57,676 - INFO - Received question: <script>alert(1)</script>
+2026-05-06 11:00:57,680 - INFO - Cache HIT
+2026-05-06 11:00:57,683 - INFO - 127.0.0.1 - - [06/May/2026 11:00:57] "POST /query HTTP/1.1" 200 -
+2026-05-06 11:00:57,782 - INFO - Received question: <script>alert(1)</script>
+2026-05-06 11:00:57,787 - INFO - Cache HIT
+2026-05-06 11:00:57,787 - INFO - 127.0.0.1 - - [06/May/2026 11:00:57] "POST /query HTTP/1.1" 200 -
+2026-05-06 11:00:57,889 - INFO - Received question: <script>alert(1)</script>
+2026-05-06 11:00:57,892 - INFO - Cache HIT
+2026-05-06 11:00:57,894 - INFO - 127.0.0.1 - - [06/May/2026 11:00:57] "POST /query HTTP/1.1" 200 -
+2026-05-06 11:00:57,969 - INFO - Received question: <script>alert(1)</script>
+2026-05-06 11:00:57,975 - INFO - Cache HIT
+2026-05-06 11:00:57,975 - INFO - 127.0.0.1 - - [06/May/2026 11:00:57] "POST /query HTTP/1.1" 200 -
+2026-05-06 11:00:58,041 - INFO - Received question: <script>alert(1)</script>
+2026-05-06 11:00:58,048 - INFO - Cache HIT
+2026-05-06 11:00:58,049 - INFO - 127.0.0.1 - - [06/May/2026 11:00:58] "POST /query HTTP/1.1" 200 -
+2026-05-06 11:00:58,132 - INFO - Received question: <script>alert(1)</script>
+2026-05-06 11:00:58,132 - INFO - Cache HIT
+2026-05-06 11:00:58,132 - INFO - 127.0.0.1 - - [06/May/2026 11:00:58] "POST /query HTTP/1.1" 200 -
+2026-05-06 11:00:58,225 - INFO - Received question: <script>alert(1)</script>
+2026-05-06 11:00:58,231 - INFO - Cache HIT
+2026-05-06 11:00:58,233 - INFO - 127.0.0.1 - - [06/May/2026 11:00:58] "POST /query HTTP/1.1" 200 -
+2026-05-06 11:00:58,299 - INFO - Received question: <script>alert(1)</script>
+2026-05-06 11:00:58,299 - INFO - Cache HIT
+2026-05-06 11:00:58,299 - INFO - 127.0.0.1 - - [06/May/2026 11:00:58] "POST /query HTTP/1.1" 200 -
+2026-05-06 11:00:58,395 - INFO - Received question: <script>alert(1)</script>
+2026-05-06 11:00:58,395 - INFO - Cache HIT
+2026-05-06 11:00:58,397 - INFO - 127.0.0.1 - - [06/May/2026 11:00:58] "POST /query HTTP/1.1" 200 -
+2026-05-06 11:00:58,489 - INFO - Received question: <script>alert(1)</script>
+2026-05-06 11:00:58,490 - INFO - Cache HIT
+2026-05-06 11:00:58,490 - INFO - 127.0.0.1 - - [06/May/2026 11:00:58] "POST /query HTTP/1.1" 200 -
+2026-05-06 11:00:58,551 - INFO - Received question: <script>alert(1)</script>
+2026-05-06 11:00:58,556 - INFO - Cache HIT
+2026-05-06 11:00:58,556 - INFO - 127.0.0.1 - - [06/May/2026 11:00:58] "POST /query HTTP/1.1" 200 -
+2026-05-06 11:00:58,630 - INFO - Received question: <script>alert(1)</script>
+2026-05-06 11:00:58,632 - INFO - Cache HIT
+2026-05-06 11:00:58,632 - INFO - 127.0.0.1 - - [06/May/2026 11:00:58] "POST /query HTTP/1.1" 200 -
+2026-05-06 11:00:58,717 - INFO - Received question: <script>alert(1)</script>
+2026-05-06 11:00:58,720 - INFO - Cache HIT
+2026-05-06 11:00:58,720 - INFO - 127.0.0.1 - - [06/May/2026 11:00:58] "POST /query HTTP/1.1" 200 -
+2026-05-06 11:00:58,829 - INFO - Received question: <script>alert(1)</script>
+2026-05-06 11:00:58,831 - INFO - Cache HIT
+2026-05-06 11:00:58,832 - INFO - 127.0.0.1 - - [06/May/2026 11:00:58] "POST /query HTTP/1.1" 200 -
+2026-05-06 11:00:58,954 - INFO - Received question: <script>alert(1)</script>
+2026-05-06 11:00:58,956 - INFO - Cache HIT
+2026-05-06 11:00:58,958 - INFO - 127.0.0.1 - - [06/May/2026 11:00:58] "POST /query HTTP/1.1" 200 -
+2026-05-06 11:00:59,064 - INFO - Received question: <script>alert(1)</script>
+2026-05-06 11:00:59,067 - INFO - Cache HIT
+2026-05-06 11:00:59,068 - INFO - 127.0.0.1 - - [06/May/2026 11:00:59] "POST /query HTTP/1.1" 200 -
+2026-05-06 11:00:59,190 - INFO - Received question: <script>alert(1)</script>
+2026-05-06 11:00:59,192 - INFO - Cache HIT
+2026-05-06 11:00:59,193 - INFO - 127.0.0.1 - - [06/May/2026 11:00:59] "POST /query HTTP/1.1" 200 -
+2026-05-06 11:00:59,313 - INFO - Received question: <script>alert(1)</script>
+2026-05-06 11:00:59,316 - INFO - Cache HIT
+2026-05-06 11:00:59,317 - INFO - 127.0.0.1 - - [06/May/2026 11:00:59] "POST /query HTTP/1.1" 200 -
+2026-05-06 11:00:59,422 - INFO - Received question: <script>alert(1)</script>
+2026-05-06 11:00:59,424 - INFO - Cache HIT
+2026-05-06 11:00:59,425 - INFO - 127.0.0.1 - - [06/May/2026 11:00:59] "POST /query HTTP/1.1" 200 -
+2026-05-06 11:00:59,544 - INFO - Received question: <script>alert(1)</script>
+2026-05-06 11:00:59,545 - INFO - Cache HIT
+2026-05-06 11:00:59,547 - INFO - 127.0.0.1 - - [06/May/2026 11:00:59] "POST /query HTTP/1.1" 200 -
+2026-05-06 11:00:59,667 - INFO - Received question: <script>alert(1)</script>
+2026-05-06 11:00:59,670 - INFO - Cache HIT
+2026-05-06 11:00:59,671 - INFO - 127.0.0.1 - - [06/May/2026 11:00:59] "POST /query HTTP/1.1" 200 -
+2026-05-06 11:00:59,765 - INFO - Received question: <script>alert(1)</script>
+2026-05-06 11:00:59,769 - INFO - Cache HIT
+2026-05-06 11:00:59,770 - INFO - 127.0.0.1 - - [06/May/2026 11:00:59] "POST /query HTTP/1.1" 200 -
+2026-05-06 11:00:59,886 - INFO - Received question: <script>alert(1)</script>
+2026-05-06 11:00:59,888 - INFO - Cache HIT
+2026-05-06 11:00:59,890 - INFO - 127.0.0.1 - - [06/May/2026 11:00:59] "POST /query HTTP/1.1" 200 -
+2026-05-06 11:01:00,029 - INFO - Received question: <script>alert(1)</script>
+2026-05-06 11:01:00,033 - INFO - Cache HIT
+2026-05-06 11:01:00,036 - INFO - 127.0.0.1 - - [06/May/2026 11:01:00] "POST /query HTTP/1.1" 200 -
+2026-05-06 11:01:00,165 - INFO - Received question: <script>alert(1)</script>
+2026-05-06 11:01:00,169 - INFO - Cache HIT
+2026-05-06 11:01:00,170 - INFO - 127.0.0.1 - - [06/May/2026 11:01:00] "POST /query HTTP/1.1" 200 -
+2026-05-06 11:01:00,291 - INFO - Received question: <script>alert(1)</script>
+2026-05-06 11:01:00,292 - INFO - Cache HIT
+2026-05-06 11:01:00,293 - INFO - 127.0.0.1 - - [06/May/2026 11:01:00] "POST /query HTTP/1.1" 200 -
+2026-05-06 11:01:00,399 - INFO - Received question: <script>alert(1)</script>
+2026-05-06 11:01:00,401 - INFO - Cache HIT
+2026-05-06 11:01:00,402 - INFO - 127.0.0.1 - - [06/May/2026 11:01:00] "POST /query HTTP/1.1" 200 -
+2026-05-06 11:01:00,521 - INFO - Received question: <script>alert(1)</script>
+2026-05-06 11:01:00,523 - INFO - Cache HIT
+2026-05-06 11:01:00,525 - INFO - 127.0.0.1 - - [06/May/2026 11:01:00] "POST /query HTTP/1.1" 200 -
+2026-05-06 11:01:00,648 - INFO - Received question: <script>alert(1)</script>
+2026-05-06 11:01:00,651 - INFO - Cache HIT
+2026-05-06 11:01:00,652 - INFO - 127.0.0.1 - - [06/May/2026 11:01:00] "POST /query HTTP/1.1" 200 -
+2026-05-06 11:01:19,012 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: query.query
+2026-05-06 11:01:19,020 - INFO - 127.0.0.1 - - [06/May/2026 11:01:19] "[31m[1mPOST /query HTTP/1.1[0m" 429 -
+2026-05-06 11:01:19,784 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: query.query
+2026-05-06 11:01:19,785 - INFO - 127.0.0.1 - - [06/May/2026 11:01:19] "[31m[1mPOST /query HTTP/1.1[0m" 429 -
+2026-05-06 11:01:20,953 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: query.query
+2026-05-06 11:01:20,953 - INFO - 127.0.0.1 - - [06/May/2026 11:01:20] "[31m[1mPOST /query HTTP/1.1[0m" 429 -
+2026-05-06 11:01:21,553 - INFO - ratelimit 30 per 1 minute (127.0.0.1) exceeded at endpoint: query.query
+2026-05-06 11:01:21,553 - INFO - 127.0.0.1 - - [06/May/2026 11:01:21] "[31m[1mPOST /query HTTP/1.1[0m" 429 -

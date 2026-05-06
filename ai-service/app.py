@@ -85,7 +85,7 @@ def security_layer():
     if data is None:
         return jsonify({"error": "Invalid or missing JSON body"}), 400
 
-    for key in ["input", "text", "query", "content"]:
+    for key in ["input", "text", "query", "content","question"]:
         if key in data:
             value = data[key]
 
@@ -93,7 +93,7 @@ def security_layer():
             if not valid:
                 return jsonify({"error": error}), 400
 
-            # ✅ FIX: use g instead of request
+            # FIX: use g instead of request
             g.sanitized_input = sanitize(value)
             g.sanitized_key = key
             return
